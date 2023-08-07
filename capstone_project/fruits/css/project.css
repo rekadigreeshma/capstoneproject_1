@@ -1,0 +1,396 @@
+.a{
+	height: 3000px;
+	width: 100%;
+	background-color: whitesmoke;
+}
+}
+.a1{
+	height: 800px;
+	width: 100%;
+	background-color: pink;
+}
+.a11{
+	height: 250px;
+	width: 250px;
+	margin-top: 130px;
+	margin-left: 300px;
+	background-color: lightsteelblue;
+	float: left;
+}
+
+.a21{
+	height: 250px;
+	width: 250px;
+	margin-top: 100px;
+	margin-left: 100px;
+	background-color: lightsteelblue;
+	float: left;
+}
+.a31{
+	height: 250px;
+	width: 250px;
+	margin-top: 100px;
+	margin-left: 100px;
+	background-color: lightsteelblue;
+	float: left;
+}
+#b{
+	height: 700px;
+	width: 100%;
+	background-color: pink;
+	background-image:  url('../images/last1.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+.b1{
+	color: black;
+	font-size: 50px;
+	margin-left: 60px;
+	padding-top: 80px;
+
+}
+.b2{
+	color:darkred;
+	font-size: 20px;
+	margin-left: 60px;
+	padding-top: 80px;
+
+}
+.b3{
+	color: black;
+	border-radius: 25px;
+	border:2px solid brown;
+	font-size: 25px;
+	margin-right: 750px;
+}
+.c{
+	height:700px;
+	width:100%;
+	background-color: antiquewhite;
+	margin-top: 200px;
+}
+.h1{
+	text-align: center;
+	padding-top: 100px;
+}
+.p1{
+	text-align: center;
+	font-size: 20px;
+}
+.d{
+	height: 400px;
+	width: 730px;
+	background-color: lightcyan;
+	margin-left: 400px;
+}
+.d1{
+	height: 400px;
+	width: 230px;
+	background-color: lightcyan;
+	float: left;	
+}
+.d11{
+	height: 195px;
+	width: 230px;
+	background-color: whitesmoke;
+}
+.d12{
+	height: 195px;
+	width: 230px;
+	background-color: lightpink;
+	margin-top: 10px;
+
+}
+
+.d2{
+	height: 400px;
+	width: 230px;
+	background-color: lightyellow;
+	margin-left: 10px;
+	float: left;
+}
+.d22{
+	height: 200px;
+	width: 230px;
+	background-color: lightslategray;
+
+}
+.d21{
+	height: 195px;
+	width: 230px;
+	background-color: lightgrey;
+	margin-top: 10px;
+}
+.d3{
+	height: 400px;
+	width: 240px;
+	background-color: lightgoldenrodyellow;
+	margin-left: 10px;
+	float: left;
+}
+.d33{
+	height: 200px;
+	width: 240px;
+	background-color: lightgrey;
+}
+.d31{
+	height: 195px;
+	width: 240px;
+	background-color: lightblue;
+	margin-top: 10px;
+}
+i[class="fa-sharp fa-solid fa-honey-pot"]{
+	height: 50px;
+	width: 30px;
+	font-size: 50px;
+}
+#div1{
+	height: 200px;
+	width: 100%;
+	background-image:  url('../images/div1.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+#div2{
+	height: 200px;
+	width: 100%;
+	background-image:  url('../images/div2.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+#div3{
+	height: 200px;
+	width: 100%;
+	background-image:  url('../images/div5.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+#div4{
+	height: 200px;
+	width: 100%;
+	background-image:  url('../images/div3.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+#div5{
+	height:200px;
+	width: 100%;
+	background-image: url('../images/div4.jpg');
+
+}
+#div6{
+	height:200px;
+	width: 100%;
+	background-image: url('../images/divvs.jpg');
+
+}
+.m{
+	height: 500px;
+	width: 100%;
+	background-color: navajowhite;
+
+}.h11{
+
+	text-align: center;
+	padding-top: 50px;
+}
+.p11{
+	text-align: center;
+}
+.h22{
+	padding-left: 0px;
+	font-size: 18px;
+}
+.p22{
+	
+	padding-left: 50px;
+	color: dimgray;
+}
+.h23{
+	padding-left: 300px;
+	padding-bottom: 100px;
+	padding-bottom: 50px;
+}
+.div44{
+	
+	height: 220px;
+	width: 80%;
+	background-color: blue;
+	margin-left: 160px;
+}
+.div41{
+	height: 220px;
+	width: 24%;
+	background-color: lightskyblue;
+	float: left;
+
+}
+.div49{
+	height: 220px;
+	width: 25%;
+	background-color: lightyellow;
+	float: left;
+	}
+.div43{
+	height: 220px;
+	width: 25%;
+	background-color: lightsalmon;
+	float: left;
+}
+.div45{
+	height: 220px;
+	width: 25%;
+	background-color: lightsteelblue;
+	float:left;
+}
+.button{
+	text-align: center;
+	color: white;
+	border: 1px solid black;
+	border-radius: 25px;
+	background-color: green;
+	margin-left: 700px;
+	margin-top: 15px;
+
+}
+.ldiv{
+	height: 1500px;
+	width: 100%;
+	background-color: lightsteelblue;
+}
+.l1div{
+	height: 400px;
+	width: 80%;
+	background-color: white;
+	margin-left: 200px;
+}
+.l11div{
+	height: 400px;
+	width: 24%;
+	background-color: brown;
+	margin-right: 15px;
+	float: left;
+}
+#div9{
+	height: 400px;
+	width: 24%;
+	background-image:  url('../images/div9.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+.l12div{
+	height: 400px;
+	width: 24%;
+	background-color: pink;
+	float: left;
+	margin-right: 13px;
+	border: 3px solid brown;
+}
+
+.l13div{
+	height: 400px;
+	width: 24%;
+	background-color: green;
+	margin-right: 15px;
+	float: left;
+}
+#div10{
+	height: 400px;
+	width: 24%;
+	background-image:  url('../images/div10.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+.l14div{
+	height: 400px;
+	width: 22%;
+	background-color: yellowgreen;
+	float: left;
+	border: 3px solid brown;
+
+
+}
+.lh3{
+	text-align: center;
+}
+.lp{
+	text-align: center;
+	font-size: 30px;
+}
+.lldiv{
+	height: 800px;
+	width: 100%;
+	background-color: whitesmoke;
+}
+.ll1div{
+	height: 1100px;
+	width: 50%;
+	background-color: lightyellow;
+	float: left;
+}
+.ll2div{
+	height: 950px;
+	width: 50%;
+	background-color: lightcyan;
+	float: left;
+}
+#div11{
+	height: 1100px;
+	width: 50%;
+	background-image:  url('../images/div11.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+#lblock{
+	padding-top: 150px;
+	text-align: center;
+}
+.llp{
+	text-align: center;
+	font-size: 30px;
+}
+.llbutton{
+	border-radius: 25px;
+	color: black;
+	border: 1px solid brown;
+	font-size: 25px;
+}
+#icon1{
+	height: 80px;
+	width: 25%;
+	background-image:  url('../images/icon1.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin-left: 80px;
+}
+
+#icon2{
+	height: 80px;
+	width: 33%;
+	background-image:  url('../images/icon2.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin-left: 80px;
+}
+
+#icon3{
+	height: 80px;
+	width: 29%;
+	background-image:  url('../images/icon3.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin-left: 80px;
+}
+.a111{
+	font-size: 25px;
+	position:relative;
+	left:70px;
+}
